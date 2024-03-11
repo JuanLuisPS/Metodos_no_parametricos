@@ -1,2 +1,2 @@
-# Tecnicas-de-conteo
-Repositorio que contiene información sobre algunas técnicas de conteo para el manejo de probabilidades.
+# Métodos No Paramétricos
+Repositorio que contiene información sobre el curso de Métodos No Paramétricos
